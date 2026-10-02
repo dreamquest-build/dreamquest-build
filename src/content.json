@@ -1,0 +1,33 @@
+{
+  "company": {
+    "name": "株式会社ドリームクエスト",
+    "address": "大阪府堺市（詳細住所：PLACEHOLDER：確認後入力）",
+    "representative": "PLACEHOLDER：確認後入力",
+    "phone": "PLACEHOLDER：確認後入力",
+    "constructionLicense": "PLACEHOLDER：確認後入力",
+    "realEstateLicense": "PLACEHOLDER：確認後入力",
+    "sakaiQualification": "PLACEHOLDER：確認後入力",
+    "osakaQualification": "PLACEHOLDER：確認後入力"
+  },
+  "projects": [
+    {"slug":"public-renovation","name":"公共施設・大規模改修","category":"公共工事","location":"PLACEHOLDER：確認後入力","scope":"PLACEHOLDER：確認後入力","completed":"PLACEHOLDER：確認後入力","sample":true,"photos":[]},
+    {"slug":"factory-warehouse","name":"工場・倉庫の工事","category":"工場・倉庫","location":"PLACEHOLDER：確認後入力","scope":"PLACEHOLDER：確認後入力","completed":"PLACEHOLDER：確認後入力","sample":true,"photos":[]},
+    {"slug":"store-construction","name":"店舗の設計・施工","category":"店舗","location":"PLACEHOLDER：確認後入力","scope":"PLACEHOLDER：確認後入力","completed":"PLACEHOLDER：確認後入力","sample":true,"photos":[]},
+    {"slug":"office","name":"事務所の工事","category":"事務所","location":"PLACEHOLDER：確認後入力","scope":"PLACEHOLDER：確認後入力","completed":"PLACEHOLDER：確認後入力","sample":true,"photos":[]},
+    {"slug":"renovation","name":"建物の改修工事","category":"改修工事","location":"PLACEHOLDER：確認後入力","scope":"PLACEHOLDER：確認後入力","completed":"PLACEHOLDER：確認後入力","sample":true,"photos":[]},
+    {"slug":"exterior","name":"外構工事","category":"外構","location":"PLACEHOLDER：確認後入力","scope":"PLACEHOLDER：確認後入力","completed":"PLACEHOLDER：確認後入力","sample":true,"photos":[]},
+    {"slug":"other","name":"その他の建築工事","category":"その他","location":"PLACEHOLDER：確認後入力","scope":"PLACEHOLDER：確認後入力","completed":"PLACEHOLDER：確認後入力","sample":true,"photos":[]}
+  ],
+  "news": [
+    {"date":"","title":"Webサイト初期版を準備中です","body":"施工写真・会社情報を確認のうえ、順次掲載していきます。"}
+  ],
+  "recruit": {
+    "role":"建築施工管理・現場管理",
+    "employment":"PLACEHOLDER：確認後入力",
+    "salary":"PLACEHOLDER：確認後入力",
+    "hours":"PLACEHOLDER：確認後入力",
+    "holidays":"PLACEHOLDER：確認後入力",
+    "benefits":"PLACEHOLDER：確認後入力",
+    "location":"PLACEHOLDER：確認後入力"
+  }
+}
